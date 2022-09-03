@@ -6,4 +6,3 @@ FEATURES:
 - a special delimiter code (how Decoder will know when to stop searching the built tree)
 - recursive function backtracking the paths it takes to get to a leaf
 - recursive function that follows paths to one leaf
-d
